@@ -16,7 +16,7 @@ body {
 /* Header styles */
 header {
     background-color: rgba(204, 255, 204, 0.8);
-    background-image: url('https://EvanSerrano.github.io/static/img/background.webp');
+    background-image: url('https://EvanSerrano.github.io/static/img/background.svg');
     background-repeat: repeat;
     background-size: 300px;
     background-attachment: fixed;
